@@ -1,0 +1,34 @@
+Nom du formulaire : Éclore — Votre avis fait grandir l’idée
+
+Écran d’accueil :
+Un peu de vous, pour faire grandir Éclore.
+Ce court questionnaire nous aide à imaginer une plateforme d’éducation à la santé des femmes. Nous demandons uniquement votre avis sur le projet, sans information médicale ni coordonnées personnelles.
+Bouton : Je participe
+
+1. Quel sujet aimeriez-vous découvrir en premier sur Éclore ?
+Type : choix multiple, une réponse
+Oser poser ses questions
+Corps et cycle
+Relations et consentement
+Autre sujet
+
+2. Quel format vous donnerait le plus envie d’apprendre ?
+Type : choix multiple, une réponse
+Des articles courts
+Des quiz interactifs
+Des vidéos explicatives
+Des fiches pratiques
+
+3. Après avoir découvert le projet, avez-vous envie d’explorer Éclore ?
+Type : choix multiple, une réponse
+Oui, tout à fait
+Pourquoi pas
+Pas pour le moment
+
+4. Une idée pour rendre Éclore plus utile ?
+Type : texte long, facultatif
+Consigne : Merci de ne pas inclure de données personnelles ou médicales dans votre réponse.
+
+Écran de fin :
+Merci de faire grandir Éclore !
+Votre regard nous aide à construire un projet plus clair, plus utile et plus accessible.
