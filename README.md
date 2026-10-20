@@ -2,13 +2,15 @@
 
 French student project landing page, built with plain HTML and CSS for GitHub Pages.
 
-- `index.html`: landing page and Typeform integration area.
+Live website: https://paul-song0206.github.io/eclore-landing/
+
+- `index.html`: landing page with the official Typeform embed.
 - `style.css`: responsive desktop and mobile styles.
 - `images/`: local SVG brand and prototype assets.
-- `typeform-content.txt`: questionnaire draft, without medical or contact data collection.
+- `typeform-content.txt`: questionnaire content; no personal, contact or medical data requested.
 
-The linked Figma prototype contains six connected mobile screens.
+Typeform: https://form.typeform.com/to/eS9EwgA2
 
-Typeform connection is pending owner sign-in. The page explicitly displays this state rather than simulating a working form.
+The Figma prototype linked from the page contains six connected mobile screens.
 
-Deploy from `main`, `/ (root)` in repository Settings → Pages.
+Deployment: branch `main`, `/ (root)` in Settings → Pages.
